@@ -18,7 +18,7 @@ title: GYUNGCHAN2110
 subtitle: "개인블로그"
 url: "https://comh.cf/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
+baseurl: 
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
