@@ -14,11 +14,11 @@ keep_files:
 
 
 # Site settings
-title: GYUNGCHAN2110
+title: Airspace
 subtitle: "개인블로그"
 url: "https://comh.cf/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: 
+baseurl: "/airspace-jekyll"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
